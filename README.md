@@ -1,10 +1,9 @@
 <h1 align="center"> Olá, eu sou o Deibson</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Java & COBOL <br>
-🎓 Estudante de Engenharia da Computação <br>
-📊 Pesquisador em Manipulação e Análise de Dados
-</h3>
+Desenvolvedor Java & COBOL <br>
+Estudante de Engenharia da Computação <br>
+Pesquisador em Manipulação e Análise de Dados
 
 ---
 
