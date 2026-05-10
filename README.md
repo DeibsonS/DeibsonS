@@ -64,9 +64,7 @@ Aplicativo inspirado no Duolingo para desafios de programação.
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=DeibsonS&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeibsonS&layout=compact&theme=tokyonight"/>
+![Snake animation](https://github.com/DeibsonS/DeibsonS/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
