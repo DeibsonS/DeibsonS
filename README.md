@@ -1,20 +1,8 @@
 <h1 align="center"> Olá, eu sou o Deibson</h1>
 
 <h3 align="center">
-Desenvolvedor Java & COBOL <br>
+Desenvolvedor COBOL <br>
 Estudante de Engenharia da Computação <br>
-Pesquisador em Manipulação e Análise de Dados
-
----
-
-<div align="center">
-
-- Atualmente trabalhando em projetos com Java, COBOL e Kotlin  
-- Desenvolvendo o projeto CodeQuest  
-- Estudando Clean Code, Design Patterns e Machine Learning  
-- Interesse em IA, SQL Performance e Desenvolvimento Corporativo
-
-</div>
 
 ---
 
@@ -46,43 +34,19 @@ Pesquisador em Manipulação e Análise de Dados
 </div>
 
 ---
-
-## Projetos em Destaque
-
-### CodeQuest
-Aplicativo inspirado no Duolingo para desafios de programação.
-
-✅ Sistema de ranking  
-✅ Dificuldade progressiva  
-✅ Login e progresso do usuário  
-✅ Android Studio + Kotlin
-
----
-
-## GitHub Stats
-
 <div align="center">
-
 ![Snake animation](https://raw.githubusercontent.com/DeibsonS/DeibsonS/output/github-contribution-grid-snake.svg)
-
 </div>
 
 </div>
-
----
 
 ## Contato
-
 <div align="left">
   <a href="https://www.linkedin.com/in/deibsonsantosdev/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
 
----
-
 <div align="center">
-
 “Transformando aprendizado e tecnologia em soluções reais.” ✨
-
 </div>
