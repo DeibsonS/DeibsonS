@@ -64,7 +64,11 @@ Aplicativo inspirado no Duolingo para desafios de programação.
 
 <div align="center">
 
-![Snake animation](https://github.com/DeibsonS/DeibsonS/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeibsonS/DeibsonS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeibsonS/DeibsonS/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeibsonS/DeibsonS/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
