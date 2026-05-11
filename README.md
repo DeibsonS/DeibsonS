@@ -1,8 +1,7 @@
 <h1 align="center"> Olá, eu sou o Deibson</h1>
 
 <h3 align="center">
-Desenvolvedor COBOL <br>
-Estudante de Engenharia da Computação <br>
+### Desenvolvedor COBOL | Estudante de Engenharia da Computação @ FHO
 
 ---
 
