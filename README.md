@@ -36,7 +36,7 @@ Estudante de Engenharia da Computação <br>
 ---
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/DeibsonS/DeibsonS/output/github-contribution-grid-snake.svg)
+<img src="./assets/cobol-snake.svg" width="100%"/>
 
 </div>
 
