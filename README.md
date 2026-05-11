@@ -36,7 +36,7 @@ Estudante de Engenharia da Computação <br>
 ---
 <div align="center">
   
-<img src="assets/cobol-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/DeibsonS/DeibsonS/main/assets/cobol-snake.svg" width="100%"/>
 
 </div>
 
